@@ -1,0 +1,9 @@
+[meta]
+name     = "Challenge"
+author   = "Helzinka"
+category = "Utilities"
+perms = "paid"
+version = "1.2"
+
+[script]
+imports = ["Icons.as", "Time.as"] 
